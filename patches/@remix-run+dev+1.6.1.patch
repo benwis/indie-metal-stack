@@ -2,7 +2,7 @@ diff --git a/node_modules/@remix-run/dev/.DS_Store b/node_modules/@remix-run/dev
 new file mode 100644
 index 0000000..e69de29
 diff --git a/node_modules/@remix-run/dev/compiler.js b/node_modules/@remix-run/dev/compiler.js
-index e1c511d..0370503 100644
+index 0458900..4ea99c7 100644
 --- a/node_modules/@remix-run/dev/compiler.js
 +++ b/node_modules/@remix-run/dev/compiler.js
 @@ -19,6 +19,7 @@ var fse = require('fs-extra');
@@ -70,7 +70,7 @@ diff --git a/node_modules/@remix-run/dev/compiler/.DS_Store b/node_modules/@remi
 new file mode 100644
 index 0000000..e69de29
 diff --git a/node_modules/@remix-run/dev/compiler/loaders.js b/node_modules/@remix-run/dev/compiler/loaders.js
-index dd2c349..2b08059 100644
+index 1fb947d..c9faeeb 100644
 --- a/node_modules/@remix-run/dev/compiler/loaders.js
 +++ b/node_modules/@remix-run/dev/compiler/loaders.js
 @@ -59,6 +59,7 @@ const loaders = {
